@@ -19,8 +19,9 @@ The **Virtual Painter** is an interactive application that uses hand gestures fo
 git clone https://github.com/yourusername/virtual-painter.git
 cd virtual-painter
 
-###2. Install Dependencies
+### 2. Install Dependencies
 Ensure you have Python installed, then run:
 pip install -r requirements.txt
-###3. Run the Project
+
+### 3. Run the Project
 python main.py
