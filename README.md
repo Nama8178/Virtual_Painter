@@ -16,7 +16,7 @@ The **Virtual Painter** is an interactive application that uses hand gestures fo
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/virtual-painter.git
+git clone [https://github.com/Nama8178/Virtual_Painter]
 cd virtual-painter
 
 ### 2. Install Dependencies
