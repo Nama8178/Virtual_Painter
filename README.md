@@ -10,7 +10,7 @@ The **Virtual Painter** is an interactive application that uses hand gestures fo
 - 🚀 **Easy to Use**: No external hardware required—just a camera and your hands!
 
 ## Demo
-(Add a gif or link to a video showing the application in action)
+![Virtualpainter-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/395bb826-8402-470e-b5a6-4b6f88f14870)
 
 ## Installation
 
